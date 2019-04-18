@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: c14598caafcf7487b91603fd0b11cfe8
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Buffon
+  fontNames:
+  - Buffon
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 42902873d4a2d4a6aa7c1604a043c934, type: 3}
+  - {fileID: 12800000, guid: 647e2464b5bcf4b6c975179cb8fa3886, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
